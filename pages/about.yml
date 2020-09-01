@@ -2,5 +2,27 @@ title: About
 type: markdown
 style: default
 content: |
-    # Michael
-    This is a useless about page except for the part where it tells you about how this page is usless
+    # Skills
+
+    ### Languages
+    - C#
+    - JavaScript / TypeScript
+    - HTML / CSS
+    - PHP
+    - Java
+
+    ### Frameworks
+    - ASP.NET Core (C#)
+    - ASP.NET Core Identity (C#)
+    - Entity Framework Core (C#)
+    - Blazor (C#)
+    - Unity (C#)
+    - Svelte (JS/TS)
+    - Bootstrap (CSS)
+    - Bulma (CSS)
+
+    ### Programs
+    - Linux
+    - Nginx
+    - SQL Server
+    - PostgreSQL

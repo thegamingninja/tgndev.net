@@ -2,7 +2,10 @@ title: Home
 type: markdown
 style: landing
 content: |
-    ### Example
-    this will do for now, I think I'll go with this.
+    # Projects
 
-    nice, file based routing is working!
+    ![TGF Party Games](/static/tgf-party-games.png)
+    <a class="button is-link mt-1" href="/projects/tgf-party-games">About TGF Party Games</a>
+
+    ![dev-cms](/static/dev-cms.svg)
+    <a class="button is-link mt-1" href="/projects/dev-cms">About dev-cms</a>

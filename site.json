@@ -1,9 +1,8 @@
 {
     "theme": "default_theme",
     
-    "title": "Site Title",
-    "header": "Site Header",
-    "description": "This is an example site",
+    "title": "TGN Development",
+    "header": "TGN Development",
     "icon": "/icon.png",
     "navitems": [
         { 
@@ -14,24 +13,24 @@
             "name": "About", 
             "link": "/about" 
         },
-        {
-            "name": "Dropdown", 
+        { 
+            "name": "Projects", 
             "items": [
                 { 
-                    "name": "Item 1", 
-                    "link": "/item/1" 
+                    "name": "TGF Party Games", 
+                    "link": "/projects/tgf-party-games"
                 },
                 { 
-                    "name": "Item 2", 
-                    "link": "/item/2" 
+                    "name": "dev-cms", 
+                    "link": "/projects/dev-cms"
                 }
-            ] 
-    }
+            ]
+        }
     ],
     "metatags": [
         {
             "name": "description",
-            "content": "This is an example description",
+            "content": "Welcome to tgndev.net",
             "og": true
         },
         {

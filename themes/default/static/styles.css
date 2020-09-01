@@ -6,6 +6,14 @@ body {
     line-height: normal;
 }
 
+hr {
+    width: 75%;
+}
+
+ul {
+    list-style: inside;
+}
+
 /* Intro */
 .display-container {
     width: 100%;
@@ -153,6 +161,10 @@ body {
     margin-bottom: 2rem;
     text-align: center;
     line-height: 1.75rem;
+}
+
+.user-content p img {
+    max-width: 512px;
 }
 
 .user-content img {

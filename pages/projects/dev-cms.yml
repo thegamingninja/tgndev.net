@@ -1,0 +1,24 @@
+title: dev-cms
+type: markdown
+style: default
+content: |
+    ## About
+    dev-cms is a light-weight, modular Content Management System focused on ease of use for developers written in 
+    [TypeScript](https://www.typescriptlang.org/) & [Deno](https://deno.land/) using 
+    [Oak](https://github.com/oakserver/oak) for the HTTP server, and
+    [Denjucks](https://github.com/denjucks/denjucks) for templating.
+    
+    ---
+
+    ### Developer Notes
+    I built dev-cms to give me a customized way to easily create and manage this website and other simple or even complex websites.
+    
+    By default pages can written in [Markdown](https://www.markdownguide.org/) or 
+    [Nunjucks](https://mozilla.github.io/nunjucks/) are and stored in yaml files, 
+    but they can easily use any HTML renderer that supports Deno,
+    and easily change how & where pages are stored with a simple plugin. 
+    
+    And themes can be used to change the look of the site, and can also implement 
+    their own templating engine, so they are not limited to just using Nunjucks.
+
+    <a class="button is-link is-medium" href="https://github.com/thegamingninja/dev-cms">View on Github</a>

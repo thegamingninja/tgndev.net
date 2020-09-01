@@ -1,0 +1,21 @@
+title: TGF Party Games
+type: markdown
+style: default
+content: |
+    ## About
+    TGF Party Games a collection of custom, simple, and fun web based games designed for video/zoom calls.
+    
+    ---
+
+    ### Developer Notes
+    I built TGF Party Games because I was unable to find any 
+    high quality, simple, and fun web based games that could easily be 
+    played with larger groups of people on zoom calls during COVID-19.
+
+    Every game is very small and simple, generally around 100 lines of TypeScript and HTML
+    and can quickly be played with many people.
+
+    TGF Stands for 'Thank God For' as the site was orignally built for Church youth group video events.
+
+    <a class="button is-primary is-medium" href="https://tgfpartygames.com">View Site</a>
+    <a class="button is-link is-medium" href="https://github.com/thegamingninja/dev-cms">View on Github</a>
